@@ -1,0 +1,1 @@
+Date: 2025-06-16, CustomerID: 1, Tiffins: 5, Total: $25
